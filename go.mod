@@ -182,3 +182,5 @@ require (
 	lukechampine.com/blake3 v1.3.0 // indirect
 	zombiezen.com/go/capnproto2 v2.18.2+incompatible // indirect
 )
+
+replace github.com/anytls/sing-anytls => github.com/Wil1em/sing-anytls v0.0.11
